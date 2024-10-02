@@ -1,4 +1,4 @@
- Certifications
+# Certifications
 
 ### ISTQB – Foundation Level (CTFL)
 **Certification Number:** 98196  
